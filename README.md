@@ -16,6 +16,8 @@ Program ini menggunakan modul pygame, dengan menerapkan pemrograman berorintasi 
 #
 ## Cara Menjalankan Kontainer
 
+#
+## Gambar
 
 #
 ## Video Demo Kontainer
