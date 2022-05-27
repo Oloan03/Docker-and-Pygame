@@ -8,8 +8,6 @@
 #### Oloan Soaloon Napitupulu - 120140097
 #### Alief Arrly Prasetyo - 120140207
 #
-## A. Menjalankan Program Python dengan Menggunakan Docker pada Terminal Ubuntu
-#
 ## DINOSAUR
 #
 ## B. Deskripsi Program Game Dinosaur
