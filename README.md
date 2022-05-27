@@ -8,4 +8,5 @@
 #### Noviana Gresita Perangin-Angin - 120140239
 #### Oloan Soaloon Napitupulu - 120140097
 #
-## B. Program 
+## B. Program Game Dinosaur
+Program ini menggunakan modul pygame, dengan menerapkan pemrograman berorintasi objek
