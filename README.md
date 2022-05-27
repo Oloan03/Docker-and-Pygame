@@ -10,3 +10,4 @@
 #
 ## B. Program Game Dinosaur
 Program ini menggunakan modul pygame, dengan menerapkan pemrograman berorintasi objek
+test
