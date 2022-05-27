@@ -10,11 +10,11 @@
 #
 ## DINOSAUR
 #
-## B. Deskripsi Program Game Dinosaur
+## Deskripsi Program Game Dinosaur
 Program ini menggunakan modul pygame, dengan menerapkan pemrograman berorintasi objek (PBO). Pada game Dinosaur ini, objek dinosaurus sebagai objek utama yang mampu berlari, menunduk dan melompat untuk melewati rintangan yang terdiri dari kaktus, batu dan burung.
 
 #
-## C. Cara Menjalankan Kontainer
+## Cara Menjalankan Kontainer
 
 
 #
