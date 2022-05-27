@@ -7,6 +7,7 @@
 #### Gracia Sherianta Br Sitepu - 120140084
 #### Noviana Gresita Perangin-Angin - 120140239
 #### Oloan Soaloon Napitupulu - 120140097
+#### Alief Arrly Prasetyo - 120140207
 #
 ## B. Program Game Dinosaur
 Program ini menggunakan modul pygame, dengan menerapkan pemrograman berorintasi objek
