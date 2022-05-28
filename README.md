@@ -15,7 +15,7 @@ Program ini menggunakan modul pygame, dengan menerapkan pemrograman berorintasi 
 
 #
 ## Cara Menjalankan Kontainer
-1. Terlebih dahulu menginstal aplikasi docker dan phyton
+#1. Terlebih dahulu menginstal aplikasi docker dan phyton
 
 ### Cara install docker di ubuntu :
 * Masuk/login keserver melalui ssh client.
@@ -31,7 +31,7 @@ Program ini menggunakan modul pygame, dengan menerapkan pemrograman berorintasi 
 * update your local system's repository list : sudo apt update
 * Download the latest version of Python : sudo apt install python3
 
-2. Setelah diinstall kemudian docker mulai dijalankan untuk membuat container
+#2. Setelah diinstall kemudian docker mulai dijalankan untuk membuat container
 * clone repositori game script yang akan dijalankan pada docker dan pindahkan py game script ke folder download.
 * melakukan pembangunan image py game script yang telah didownload sebelumnya.
 * selanjutnya jalankan perintah image untuk melihat daftar image pada local storage.
