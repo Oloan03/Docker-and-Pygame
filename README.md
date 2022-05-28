@@ -26,6 +26,7 @@ Cara install docker di ubuntu :
      sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable"
    - Update Package Database : sudo apt update
    - Kemudian install docker dan cek kembali bahwa aplikasi telah terinstall.
+
 Cara install phyton :
 * update your local system's repository list : sudo apt update
 * Download the latest version of Python : sudo apt install python3
