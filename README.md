@@ -32,6 +32,10 @@ Program ini menggunakan modul pygame, dengan menerapkan pemrograman berorintasi 
 * Download the latest version of Python : sudo apt install python3
 
 2. Setelah diinstall kemudian docker mulai dijalankan untuk membuat container
+* clone repositori game script yang akan dijalankan pada docker dan pindahkan py game script ke folder download.
+* melakukan pembangunan image py game script yang telah didownload sebelumnya.
+* selanjutnya jalankan perintah image untuk melihat daftar image pada local storage.
+* Jalankan container dengan perintah make run linux ,perintah menjalankan disesuaikan dengan os digunakan.
 
 #
 ## Gambar
