@@ -52,4 +52,4 @@ Program ini menggunakan modul pygame, dengan menerapkan pemrograman berorintasi 
 ![WhatsApp Image 2022-05-27 at 21 53 31](https://user-images.githubusercontent.com/90511661/170735189-31778536-ab0a-45b4-8259-9bc7841820ad.jpeg)
 #
 ## Video Demo Kontainer
-!*Dapat dilihat pada link berikut (https://youtu.be/IcZZpFK7JSo)
+* Dapat dilihat pada link berikut (https://youtu.be/IcZZpFK7JSo)
